@@ -8,5 +8,5 @@
 <strong><p>You can keep up-to-date on the latest WhatsApp updates, including technical news from our Twitter account </p></strong>
 <p><li>You can follow our twitter account by clicking on the bottom right of the screen at the word More Information</li></p>
 <li>اخيراً نأسف لأزعاجكم - دمتم في حفظ الله -</li>
-","url":"https://mobile.twitter.com/Athwa_Alain"
+","url":"https://mobile.twitter.com/athwa_alain"
 }

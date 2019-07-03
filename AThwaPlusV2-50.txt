@@ -1,11 +1,7 @@
 {"version_code":451215,"content":"
 <strong><p>=======================</p></strong>
 <strong><p>===خبر مهم===</p></strong>
-<p><li>تطبيق الواتساب حاليا توجد فيه مشكلة لايقوم بتحميل الصور والفيديوهات والصوتيات طبعا المشكلة عامة في جميع الواتسابات بما فيهم الواتساب الرسمي </li></p
-<strong><p>للمزيد حول الخلل التقني أضغط بالاسفل على كلمة معلومات أكثر</p></strong>
-<strong><p>=======================</p></strong>
-<strong><p>===Important news===</p></strong>
-<p><li>Application whatsapp currently there is a problem it does not upload photos, videos and acoustics course the bugs of the company itself the general problem in all whatsapp including whatsapp official</li></p>
-<strong><p>For more technical bugs click on the word More Info</p></strong>
-","url":"https://athwamods.blogspot.com/2019/07/blog-post.html"
+<strong><p>===عادت خدمة الواتساب من جديد بعد ان كانت متوفقة لساعات===</p></strong>
+<li>اخيراً نأسف لأزعاجكم - دمتم في حفظ الله -</li>
+","url":"https://athwamods.blogspot.com"
 }

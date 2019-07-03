@@ -6,5 +6,5 @@
 <strong><p>===Important news===</p></strong>
 <p><li>Application whatsapp currently there is a problem it does not upload photos, videos and acoustics course the bugs of the company itself the general problem in all whatsapp including whatsapp official</li></p>
 <strong><p>==================</p></strong>
-","url":"http://athwamods.blogspot.com"
+","url":""
 }

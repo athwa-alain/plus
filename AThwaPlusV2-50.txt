@@ -1,4 +1,4 @@
-{"version_code":451215,"content":"
+{"version_code":451214,"content":"
 <strong><p>=======================</p></strong>
 <strong><p>===خبر مهم===</p></strong>
 <strong><p>عادت خدمة الواتساب من جديد بعد ان كانت متوقفة لساعات</p></strong>

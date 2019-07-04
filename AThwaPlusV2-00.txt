@@ -1,7 +1,23 @@
-{"version_code":451213,"content":"
+{"version_code":451214,"content":"
 <strong><p>=======================</p></strong>
-<strong><p>===خبر مهم===</p></strong>
-<strong><p>عادت خدمة الواتساب من جديد بعد ان كانت متوقفة لساعات</p></strong>
+<strong><p>👇تحديث جديد إصدار 2.50👇</p></strong>
+<p><li>1️⃣النسخة ضد الحظر</li></p>
+<p><li>2️⃣ تمديد صلاحية النسخة</li></p>
+<p><li>3️⃣إضافة أيقونات جديدة وتغيير شعار WhatsApp</li></p>
+<p><li>4️⃣إصلاح مشكلة ظهور عداد الرسائل المخفية</li></p>
+<p><li>5️⃣إصلاح لون الدفعات في شاشة المحادثة</li></p>
+<p><li>👇 لتحميل النسخة الجديدة يرجئ الضغط بالأسفل يسار الشاشة على كلمة معلومات أكثر ومن ثم الضغط على المستطيل الأخضر لبدء التحميل 👇</li></p>
+<strong><p>=======================</p></strong>
+<strong><p>👇Updated new version 2.50👇</p></strong>
+<p><li>1️⃣Version against ban</li></p>
+<p><li>2️⃣Extend the validity of the version</li></p>
+<p><li>3️⃣Add new icons and change the WhatsApp logo</li></p>
+<p><li>4️⃣Fixed a problem with the appearance of the hidden message counter</li></p>
+<p><li>5️⃣Fix the batch color in the conversation screen</li></p>
+<p><li>👇To download the new version, click on the lower left corner of the screen and click on the green rectangle to begin loading👇</li></p>
+<strong><p>==================</p></strong>
+<p><li>مـلاحـظـة</li></p>
+<p>📩 ستختفي هذة الرسالة في حال قمت بالتحديث بأذن الله تعالى .. شاكرين لكم .</p>
 <li>اخيراً نأسف لأزعاجكم - دمتم في حفظ الله -</li>
-","url":"https://athwamods.blogspot.com"
+","url":"http://www.mediafire.com/file/5dca50jq9xrsav3/AThwaWhatsApp+Plus+V2.50.apk"
 }

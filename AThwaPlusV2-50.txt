@@ -1,12 +1,18 @@
 {"version_code":451215,"content":"
 <strong><p>=======================</p></strong>
-<strong><p>===للتذكير===</p></strong>
-<strong><p>يمكنك تحميل واتساب بجانب الواتساب المتوفر لديك بحيث يمكنك إستخدام واتسابين برقمين مختلفين بنفس الجوال </p></strong>
-<strong>يمكنك تحميل الواتساب الثاني عبر الضغط بالأسفل يسار الشاشة على كلمة معلومات أكثر</strong>
+<strong><p>===تـنـويـة===</p></strong>
+<strong><p>قد تظهر لكم رسالة تطلب منكم تحديث نسخكم
+لا تقم بعمل تحديث لان إصدارك هو آخر إصدار متوفر الان
+نحن نعمل على إصدار تحديث جديد وسيتم الإنتهاء منه ونشره قبل إنتهاء مدة 30 يوم 
+انتظرونا مع الإصدار القادم </p></strong>
+<strong>سيتم إشعاركم في حال تم إصدار تحديث جديد</strong>
 <li>اخيراً نأسف لأزعاجكم - دمتم في حفظ الله -</li>
-<strong><p>===Reminder===</p></strong>
-<strong><p>You can download whatsapp next to your available the whatsapp so that you can use whatsapp two different numbers on the same phone </p></strong>
-<strong>You can download the second version by clicking on the bottom right of the screen on the word More Info</strong>
+<strong><p>===Notice===</p></strong>
+<strong><p>You may receive a message asking you to update your copy
+Do not update because your version is the latest version available now
+We are working on a new update that will be completed and published before the end of 30 days
+Wait for us with the next release</p></strong>
+<strong>You will be notified if a new update has been issued</strong>
 <li> Finally regret for your inconvenience - you have been saved in Allah-</li>
-","url":"https://athwamods.blogspot.com/2019/06/AThwaWhatsApp.html"
+","url":"https://athwamods.blogspot.com"
 }

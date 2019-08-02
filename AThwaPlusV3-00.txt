@@ -1,37 +1,18 @@
-{"version_code":451184,"content":"
-<p>ÊÍÏíË 9.10</p>
-
-<li>ÇáÊÍÏíË áäÓÎÉ ÇáãÇÑßÊ 2.16.310</li>
-<li>ÅÖÇİÉ İíÓÇÊ ÇáæÇÊÓ ÇÈ ÇáÌÏíÏÉ</li>
-<li>ÅãßÇäíÉ ÊÚÏíá ÇáÕæÑ ŞÈá ÇÑÓÇáåÇ(ÇáÑÓã - ÇáßÊÇÈÉ ÅÖÇİÉ ÇáãáÕŞÇÊ Úáì ÇáÕæÑ)</li>
-<li>(ÍÕÑíÇ) ÅãßÇäíÉ ÇáÇÊÕÇá ãßÇáãÉ åÇÊİíÉ ãä ÏÇÎá ÇáæÇÊÓ ÇÈ</li>
-<li>ÅÖÇİÉ ÇáÎíÇÑ 2.5.4 áÊÍÏíÏ ãÏÉ ÊäÈíå ãä ÇÕÈÍ ãÊÕá æãä ÒÇÑ ÈÑæİÇíáß</li>
-<li>ÅÖÇİÉ ÇáÎíÇÑ ÑŞã 5.3 áÊÍÏíÏ ÍÌã ÇáãŞØÚ ÇáÕæÊí ÇáãÑÓá á 100 ãíÛÇ ÈÏáÇ ãä 16 ãíÛÇ</li>
-<li>ÅÖÇİÉ ÇáÎíÇÑ 2.2.2c áÍÓÇÈ ÇáæŞÊ ÇáãäŞÖí áÇÎÑ ÙåæÑ </li>
-<li>ÅÖÇİÉ ÇáÎíÇÑ ÑŞã 2.4.14 áÊÛííÑ áæä ÇÓã ÇáãÌãæÚÉ æÏÚã ÊÛííÑ Ëíã ÔÇÔÉ ÇÚÇÏÉ ÇáÊæÌíå ãä ÇáŞÓã 2.4</li>
-<li>ÅÖÇİÉ ÇáÎíÇÑ ÑŞã 3.14 áÊÛííÑ áæä ÇíŞæäÉ ÇáİíÓÇÊ İí ÔÇÔÉ ÇáÅÔÚÇÑÇÊ ÇáãäÈËŞÉ</li>
-<li>ÅÕáÇÍ ÚÏã İÊÍ ÓÌá whatsapp.log</li>
-<li>ÅÖÇİÉ ÇáÊÑÌãÉ ááÛÉ ÇáİÇÑÓííÉ</li>
-<li>ÅÕáÇÍ ÇáÚæÏÉ ááÎáİíÉ ÇáÇİÊÑÇÖíÉ ÚäÏ ÇÓÊÎÏÇã ÎáİíÉ ãÎÕÕÉ áßá ãÍÇÏËÉ (ÇáÎíÇÑ 1.2.0)</li>
-<li>ÅÕáÇÍ æíÏÌÊ ÅÎİÇÁ ÇáÙåæÑ İí ÈÚÖ ÇáÇÌåÒÉ</li>
-<li>ÊÚÏíá ÇáÊÑÌãÉ İí ÇááÛÉ ÇáÚÑÈíÉ</li>
-<li>ÅÕáÇÍÇÊ ÇÎÑì</li>
-
-
-<li> New Base Updated to 2.16.310</li>
-<li> (Exclusive) Elapsed Time instead of Last Seen on Main Screen (Mod 2.2.2c) (use 24hr time format) </li>
-<li> (Exclusive) Option to make normal call from inapp instead of WhatsApp call</li>
-<li> Added New Emojis (send Big Emojis) </li>
-<li> Added Doodle (Now add edit pics with emojis & text)</li>
-<li> Added Option to set duration for Online Toast (Mod 2.5.4)</li>
-<li> Added option to Send Audio Clip upto 100mb instead of 16mb (Mod 5.3)</li>
-<li> Added Option to change color of Group name while Forwarding a msg (Mod 2.4.14)</li>
-<li> Added Option to change Background of Emoji in Pop-up Notification (Mod 3.14)</li>
-<li> Added Farsi Language Translation</li>
-<li> Fixed WhatsApp.Log</li>
-<li> Fixed Return to Default wallpaper when use mod 1.2.0</li>
-<li> Fixed GB Widget in some devices</li>
-<li> Other Fixes</li>
-
-","url":"www.azmods.co"
+{"version_code":451215,"content":"
+<strong><p>Ø¨Ø³Ù… Ø§Ù„Ù„Ù‡ Ø§Ù„Ø±Ø­Ù…Ù† Ø§Ù„Ø±Ø­ÙŠÙ…</p></strong>
+<strong><p>===ØªØ°ÙƒÙŠØ±===</p></strong>
+<strong><p>ÙŠÙ…ÙƒÙ†ÙƒÙ… Ù…ØªØ§Ø¨Ø¹Ø© Ù‚Ù†Ø§ØªÙ†Ø§ Ø¹Ù„Ù‰ Ø§Ù„ØªÙŠÙ„Ø¬Ø±Ø§Ù… Ù„Ù…ØªØ§Ø¨Ø¹Ø© Ø¢Ø®Ø± Ø£Ø®Ø¨Ø§Ø± ØªØ­Ø¯ÙŠØ«Ø§Øª ÙˆØ§ØªØ³Ø§Ø¨ Ø£Ø¶ÙˆØ§Ø¡ Ø§Ù„Ø¹ÙŠÙ† ÙˆØ¬Ù…ÙŠØ¹ Ø£Ø®Ø¨Ø§Ø± Ø§Ù„ØªÙ‚Ù†ÙŠØ© Ø£ÙˆÙ„ Ø¨Ø£ÙˆÙ„</p></strong>
+<strong>ÙŠÙ…ÙƒÙ†ÙƒÙ… Ù…Ù† Ø®Ù„Ø§Ù„ Ù‚Ù†Ø§ØªÙ†Ø§ Ø¹Ù„Ù‰ Ø§Ù„ØªÙŠÙ„Ø¬Ø±Ø§Ù… ØªØ­Ù…ÙŠÙ„ Ø§Ù„ÙˆØ§ØªØ³Ø§Ø¨ Ù…Ø¨Ø§Ø´Ø±Ø© Ù…Ø¹ Ø¥Ø³ØªØ¦Ù†Ø§Ù Ø§Ù„ØªØ­Ù…ÙŠÙ„ ÙÙŠ Ø­Ø§Ù„ Ø£Ù†Ù‚Ø·Ø§Ø¹ Ø§Ù„Ø¥Ù†ØªØ±Ù†Øª</strong>
+<li>ÙŠÙ…ÙƒÙ†ÙƒÙ… Ø§Ù„Ø¥Ø´ØªØ±Ø§Ùƒ ÙÙŠ Ù‚Ù†Ø§ØªÙ†Ø§ Ø¹Ù„Ù‰ Ø§Ù„ØªÙŠÙ„Ø¬Ø±Ø§Ù… Ø¨Ø§Ù„Ø¶ØºØ· Ø£Ø³ÙÙ„ ÙŠØ³Ø§Ø± Ø§Ù„Ø´Ø§Ø´Ø© Ø¹Ù„Ù‰ ÙƒÙ„Ù…Ø© Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø£ÙƒØ«Ø±</li>
+<strong><p>===Ù…Ù„Ø§Ø­Ø¸Ø©===</p></strong>
+<strong><p>ØªØ±Ù‚Ø¨ÙˆØ§ ØªØ­Ø¯ÙŠØ« Ø¬Ø¯ÙŠØ¯ Ù„Ù„ÙˆØ§ØªØ³Ø§Ø¨ Ø®Ù„Ø§Ù„ Ø§Ù„Ù€24Ø³Ø§Ø¹Ø© Ø§Ù„Ù‚Ø§Ø¯Ù…Ø© Ø¨Ø£Ø°Ù† Ø§Ù„Ù„Ù‡</p></strong>
+<li>Ø§Ø®ÙŠØ±Ø§Ù‹ Ù†Ø£Ø³Ù Ù„Ø£Ø²Ø¹Ø§Ø¬ÙƒÙ… - Ø¯Ù…ØªÙ… ÙÙŠ Ø­ÙØ¸ Ø§Ù„Ù„Ù‡</li>
+<strong><p>===Notice===</p></strong>
+<strong><p>You can follow our channel on the Telgram to follow up the latest news and updates of the eye lights and all the technical news first</p></strong>
+<strong>With our channel, you can download the WhatsApp directly with the download wizard in the event of internet interruption</strong>
+<li>You can subscribe to our channel on the telegram by clicking on the left of the screen on the word more information</li>
+<strong><p>===Note===</p></strong>
+<strong><p>Stay tuned for a new update within the next 24 hours, God Allah</p></strong>
+<li> Finally regret for your inconvenience - you have been saved in Allah</li>
+","url":"https://t.me/joinchat/AAAAAFXYTnTKwJR3vDPJ4g"
 }
